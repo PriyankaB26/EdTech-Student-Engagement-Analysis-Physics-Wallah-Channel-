@@ -43,7 +43,7 @@ Analyze Physics Wallah’s YouTube channel to measure **student engagement** and
 ---
 
 ## 📸 Dashboard Preview
-(Add screenshots here — saved from your Power BI dashboard)
+![Edtech Dashboard](./Edtech%20analysis.png)
 
 ---
 
@@ -51,14 +51,6 @@ Analyze Physics Wallah’s YouTube channel to measure **student engagement** and
 - **Python** → YouTube Data API, Pandas for preprocessing  
 - **Excel** → Lookup tables, initial cleanup  
 - **Power BI** → ETL, transformations, time series, dashboard creation  
-
----
-
-## 📂 Repo Contents
-/data → raw + cleaned datasets
-/powerbi → PBIX file + screenshots
-/docs → project workflow & documentation
-
 
 ---
 
